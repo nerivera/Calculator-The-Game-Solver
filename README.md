@@ -12,3 +12,5 @@ I plan to support dynamic operations, portals, and static text in the future.
 The solution will be given in the form of a list of numbers. Each number corresponds to an index of the original operations list argument. Enter each operation given by the indices in the order of the solution list to solve it.
 
 In order to use store, both store and insStore must be used, as both operations are represented with the single "Store" button in-game.
+
+Made by Nilo E Rivera (@nerivera) January 2020
